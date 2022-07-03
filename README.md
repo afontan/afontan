@@ -3,3 +3,5 @@
 
 # Leet code stats
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=afontan&theme=dark)](https://leetcode.com/afontan)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/afontan)](https://leetcode.com/afontan)
